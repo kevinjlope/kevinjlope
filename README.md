@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mecatronic Engineer student
+Mecatronic Engineering student
 - 🌱 I’m currently learning: angular, pytest, cosmosdb.
 <!--
 **kevinjlope/kevinjlope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
