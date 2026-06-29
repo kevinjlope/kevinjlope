@@ -1,5 +1,5 @@
 # Hi, I'm Kevin Lopez
-### Senior Web UI Developer @ Globant
+### Senior Developer
 > **Software Craftsmanship & Sustainable Engineering**
 > 
 > Transforming complex business requirements into intelligent, scalable digital assets. My focus lies at the intersection of Generative AI and robust software craftsmanship, engineering internal platforms that empower global organizations to innovate at scale. My priority is technical health: ensuring scalability and maintainability are tangible realities, not just goals.
